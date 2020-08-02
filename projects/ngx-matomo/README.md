@@ -9,11 +9,11 @@ Run `ng generate component component-name --project ngx-matomo` to generate a ne
 
 ## Build
 
-Run `ng build ngx-matomo` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `ng build ngx-matomo --prod` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Publishing
 
-After building your library with `ng build ngx-matomo`, go to the dist folder `cd dist/ngx-matomo` and run `npm publish`.
+After building your library with `ng build ngx-matomo --prod`, go to the dist folder `cd dist/ngx-matomo` and run `npm publish`.
 
 ## Running unit tests
 
