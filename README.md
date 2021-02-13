@@ -9,7 +9,7 @@
 [![devDependencies Status](https://david-dm.org/Arnaud73/ngx-matomo/dev-status.svg)](https://david-dm.org/Arnaud73/ngx-matomo?type=dev)
 [![peerDependencies Status](https://david-dm.org/Arnaud73/ngx-matomo/peer-status.svg)](https://david-dm.org/Arnaud73/ngx-matomo?type=peer)
 
-Wrapper for Matomo (aka. Piwik) analytics tracker for applications based on Angular 5, 6, 7, 8 and 9.
+Wrapper for Matomo (aka. Piwik) analytics tracker for applications based on Angular 5, 6, 7, 8, 9, 10 & 11.
 
 This is a fork of: [Arnaud73/ngx-matomo](https://github.com/Arnaud73/ngx-matomo)
 
