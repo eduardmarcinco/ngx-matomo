@@ -13,7 +13,7 @@ Run `ng build ngx-matomo --prod` to build the project. The build artifacts will 
 
 ## Publishing
 
-After building your library with `ng build ngx-matomo --prod`, go to the dist folder `cd dist/ngx-matomo` and run `npm publish`.
+After building your library with `ng build ngx-matomo --configuration production`, go to the dist folder `cd dist/ngx-matomo` and run `npm publish`.
 
 ## Running unit tests
 
